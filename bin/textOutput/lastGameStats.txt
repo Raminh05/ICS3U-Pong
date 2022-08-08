@@ -1,0 +1,3 @@
+Difficulty: Easy
+Longest rally: 27
+Last Winner: Player B
